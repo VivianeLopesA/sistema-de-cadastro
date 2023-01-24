@@ -1,3 +1,9 @@
 # sistema-de-cadastro
 
-!'Esse é um teste sobre o README'
+> Status do projeto : Em desenvolvimento 
+
+Para rodar em uma máquina por favor digite :
+
+```
+node app.js
+```
